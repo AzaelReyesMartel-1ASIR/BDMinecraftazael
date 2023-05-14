@@ -180,6 +180,12 @@ insert into biomas values (3, 'Pantano', 'Mangrove Swamp', 'Difícil', 'Bees');
 insert into biomas values (4, 'Isla Setas', 'MushroomIsland', 'Medio', 'champivacas');
 insert into biomas values (5, 'Nether', 'Netherlands', 'Difícil', 'Ghast');
 
+insert into mundo_biomas values (1,1);
+insert into mundo_biomas values (2,2);
+insert into mundo_biomas values (3,3);
+insert into mundo_biomas values (4,4);
+insert into mundo_biomas values (5,5);
+
 insert into dificultad values (1, 'pacífico', 'x0', 1);
 insert into dificultad values (2, 'fácil', 'x1', 2);
 insert into dificultad values (3, 'normal', 'x2', 3);
